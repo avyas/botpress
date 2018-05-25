@@ -14,8 +14,8 @@
     "@botpress/hitl": "^10.10.0",
     "@botpress/nlu": "^10.10.0",
     "@botpress/skill-choice": "^10.10.0",
-    "botpress": "^10.10.0",
     "@botpress/qna": "^10.10.0",
+    "botpress": "^10.10.0",
     "jsdoc-api": "^4.0.3",
     "lodash": "^4.17.10",
     "yn": "^2.0.0"
